@@ -109,4 +109,4 @@ This project highlights the importance of proper USART configuration and the use
 
 # DOWNLOAD
 
-For getting the project files, please email afallah009@gmail.com.
+To get the project files, please email afallah009@gmail.com.
