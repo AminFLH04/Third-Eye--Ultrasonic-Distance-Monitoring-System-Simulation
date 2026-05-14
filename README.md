@@ -105,3 +105,8 @@ The Third Eye project successfully:
 - Resolved serial communication problems by optimizing the baud rate  
 
 This project highlights the importance of proper USART configuration and the usefulness of interrupt‑based control in embedded systems.
+
+
+# DOWNLOAD
+
+For getting the project files, please email afallah009@gmail.com.
